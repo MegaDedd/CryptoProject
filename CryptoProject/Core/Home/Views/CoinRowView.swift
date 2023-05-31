@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+// sdfsdfsdfsdfdsfsdfsdf
+
 struct CoinRowView: View {
     
     let coin: CoinModel
